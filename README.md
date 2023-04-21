@@ -1,6 +1,7 @@
 # calculadorarRPN
 Integrantes grupo:
 --> ESCALANTE LÓPEZ BRYAN GERARDO	1621817
+
 --> CARRETO AGUILÓN DENNYS ROLANDO YOSIMAR	2276616
 pasos para conpilacion y ejecucion del proyecto 
 1. nasm -f elf nombarchivo+ .asm
